@@ -1,0 +1,10 @@
+C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.WindowsPhone\obj\ARM\Debug\App.g.i.cs
+C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.WindowsPhone\obj\ARM\Debug\App.g.cs
+C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.WindowsPhone\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.WindowsPhone\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.WindowsPhone\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.WindowsPhone\obj\ARM\Debug\App.xaml
+C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.WindowsPhone\obj\ARM\Debug\MainPage.xaml
+C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.WindowsPhone\obj\ARM\Debug\App.xbf
+C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.WindowsPhone\obj\ARM\Debug\MainPage.xbf
+C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.WindowsPhone\obj\ARM\Debug\XamlSaveStateFile.xml

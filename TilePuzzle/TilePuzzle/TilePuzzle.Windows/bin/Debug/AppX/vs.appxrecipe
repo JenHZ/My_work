@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JING-PC</Machine>
+    <WindowsUser>Jing</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f924a851-7814-4589-a731-7fad4e7dc220</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>EEA5BE9F9151116D9203BDC27383468A322756559B9C507EBE601DE56D94AA26</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f924a851-7814-4589-a731-7fad4e7dc220_1.0.0.1_neutral__hs2r6edtsvr2j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f924a851-7814-4589-a731-7fad4e7dc220_hs2r6edtsvr2j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f924a851-7814-4589-a731-7fad4e7dc220</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Shaohua</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-19T01:47:37.448</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\bin\Debug\TilePuzzle.Windows.exe">
+      <PackagePath>TilePuzzle.Windows.exe</PackagePath>
+      <Modified>2015-12-19T01:47:37.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Assets\1star.jpg">
+      <PackagePath>Assets\1star.jpg</PackagePath>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Assets\2star.jpg">
+      <PackagePath>Assets\2star.jpg</PackagePath>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Assets\3star.jpg">
+      <PackagePath>Assets\3star.jpg</PackagePath>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Assets\Spashpng.png">
+      <PackagePath>Assets\Spashpng.png</PackagePath>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Assets\Splashpng.scale-100.png">
+      <PackagePath>Assets\Splashpng.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Assets\Splashpng.scale-180.png">
+      <PackagePath>Assets\Splashpng.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Assets\soundEffect.wav">
+      <PackagePath>Assets\soundEffect.wav</PackagePath>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-12-19T00:18:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\bin\Debug\TilePuzzle.Windows.xr.xml">
+      <PackagePath>TilePuzzle.Windows.xr.xml</PackagePath>
+      <Modified>2015-12-19T01:45:35.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-12-19T01:47:36.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\bin\Debug\LeaderBoard.xbf">
+      <PackagePath>LeaderBoard.xbf</PackagePath>
+      <Modified>2015-12-19T01:47:36.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-12-19T01:47:36.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\bin\Debug\PhotoPage.xbf">
+      <PackagePath>PhotoPage.xbf</PackagePath>
+      <Modified>2015-12-19T01:47:36.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jing\Desktop\hua-z-and-mao-s\hua-z-and-mao-s\TilePuzzle\TilePuzzle\TilePuzzle.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-19T01:47:37.371</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

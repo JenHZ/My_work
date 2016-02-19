@@ -1,0 +1,3 @@
+MainPackage=C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.Windows\bin\ARM\Debug\TilePuzzle.Windows_1.0.0.1_ARM_Debug.appx
+SymbolPackage=C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.Windows\AppPackages\TilePuzzle.Windows_1.0.0.1_Debug_Test\TilePuzzle.Windows_1.0.0.1_ARM_Debug.appxsym
+ResourcePack=C:\Users\Jing\Desktop\TilePuzzle\TilePuzzle\TilePuzzle.Windows\bin\ARM\Debug\TilePuzzle.Windows_1.0.0.1_scale-180.appx
